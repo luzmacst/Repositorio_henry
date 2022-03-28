@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+* Variables: seria como una caja donde uno guarda algo en un lugar, para despues poder acceder a su contenido.
+* Strings: son palabras o hilos de palabras, se distingue porque siempre empiezan y terminan con ''
+* Funciones (argumentos, `return`):  donde uno agrupa codigos para llamar , se tiene que cumplir lo que se pide, se pueden incluir requisitos y los podemos llamar muchas veces.
+* Declaraciones `if`: es como un llamado para que se cumpla una condicion especifica, tambien podemos poner contadores y al cumplirse ese contador se realiza tal o cual cosa.
+* Valores booleanos (`true`, `false`): son palabras reservadas de verdadero y falso, nos sirven para usarlos en varias condiciones.
